@@ -1,3 +1,3 @@
 <?php
-echo "Hellor World";
+echo "Ola Mundo";
 ?>
