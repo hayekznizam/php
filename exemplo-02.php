@@ -17,7 +17,14 @@
  		echo $nome1;
  	}
  	
- 
+ 	//Concatenação
+
+ 	$sobrenome = "Oliveira";
+
+ 	$nomeCompleto = $nome1 ." " . $sobrenome;
+ 	echo "<br/>";
+ 	echo $nomeCompleto;
+
 
 
 ?>
