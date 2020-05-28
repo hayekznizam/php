@@ -25,6 +25,16 @@
  	echo "<br/>";
  	echo $nomeCompleto;
 
+ 	//Tipos de Dados
+ 	//String, inteiros, pontos flutuantes, booleandos
+ 	//Arrays e objetos
+ 	//Especiais resources e null
+
+ 	
+
+
+
+
 
 
 ?>
