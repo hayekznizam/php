@@ -1,5 +1,0 @@
-<?php
-$valorTotal = 0;
-
-
-?>
