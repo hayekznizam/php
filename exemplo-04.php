@@ -15,10 +15,12 @@
 	$ip = $_SERVER["REMOTE_ADDR"];
 	echo $ip;
 	echo "<br/>";
-
+	//pegando o nome do arquivo
 	$ip = $_SERVER["SCRIPT_NAME"];
 	echo $ip;
 	echo "<br/>";
+
+	//uri é uma parte da url
 	
 
 
