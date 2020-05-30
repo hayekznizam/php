@@ -1,0 +1,5 @@
+<?php
+//Operadores Space Shift
+
+
+?>
