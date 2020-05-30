@@ -1,0 +1,3 @@
+<?php
+//operadores em php
+?>
