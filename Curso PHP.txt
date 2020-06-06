@@ -1,0 +1,57 @@
+HTTPD.CONF
+arquivo que configura o apache
+
+
+=====GIT HUB======
+
+*Clonado repositório do Git com URL
+git clone LINK DO REPOSITORIO
+
+*Clonado reposiório do Git com URL + Criando a Pasta
+git clone LINK DO REPOSITORIO + NOME
+
+* Acesso a pasta
+cd + LOCAL DO DIRETORIO
+
+* Criando um diretorio 
+mkdir + NOME
+
+*Iniciando git
+git init
+
+*Enviando pra Stage Area/ Commit
+git add NOME DO ARQUIVO
+
+*Enviando todos os arquivos/
+git add --all
+
+*Fazendo um commit
+git commit -m MOTIVO/CONTROLE DE VERSAO
+
+
+*Adicionando Servidor de Origem
+git remote add origin LINK_DO_REPOSITORIO
+
+*Adicionando Usuario
+git config --global user.name "NOME DO USUARIO"
+
+*Adicionando Conta
+git config --global user.email "EMAIL@email"
+
+*Empurrando as informacoes para o Servidor
+git push origin master
+
+*Trazendo os arquivos do Git
+git pull origin master
+
+
+====PHP====
+
+$nome = "", ''
+
+//escopo de variável, é ate o aonde essa variável sera enxergada
+
+JSON
+//Java Script Object Notation // notacao criada para o js
+
+
